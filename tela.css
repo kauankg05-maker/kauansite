@@ -1,0 +1,20 @@
+body{
+	background-color: mediumslateblue;
+	text-align: center;
+	font-family: 'Times New Roman';
+}
+.tela{
+	background-color: mediumpurple;
+color: ghostwhite;
+padding: 15%;
+margin: 20%;
+max-width: 70%;
+border-radius: 4%;
+box-shadow: 0 1% 5% rgb(4, 7, 6, 2);
+text-align: auto;
+font-size: xx-large;
+size-adjust: 20%;
+}
+button{
+	font-size: x-large;
+}

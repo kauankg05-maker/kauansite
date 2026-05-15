@@ -1,0 +1,31 @@
+body{
+  background-color: springgreen;
+  font-family: "sans-serif" ;
+  text-align: center;
+
+  
+}
+.meu-box{
+  align-items: start;
+background-color: rgba(42, 209, 0, 0.726);
+color: ghostwhite;
+padding: 10%;
+margin: 15%;
+max-width: 30%;
+border-radius: 1%;
+text-align: auto;
+font-size: xx-large;
+size-adjust: 20%;
+border-radius: 12%;
+}
+input{
+  font-size: large;
+  background-color: rgb(255, 255, 255);
+  border-radius: 12%;
+}
+input{
+  background-color: greenyellow;
+  color: aliceblue;
+  border-radius: 15%;
+  font-size: x-large;
+}
